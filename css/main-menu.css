@@ -1,0 +1,56 @@
+/* DISCLAIMER: Hindi po ako gumamit ng AI, inaral ko po ang codes na ginamit ko */
+
+.home {
+    display: inline-block;
+}
+
+.home a {
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+.home:hover a {
+    color: #e83333;
+}
+
+/* ONGOING */
+
+.ongoing {
+    display: inline-block;
+}
+
+.ongoing a {
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;   
+    padding-right: 10px;
+}
+
+.ongoing:hover a {
+    color: #e83333;
+}
+
+/* COMPLETED */
+
+.completed {
+    display: inline-block;
+}
+
+.completed a {
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 40px;
+}
+
+.completed:hover a {
+    color: #e83333;
+}

@@ -1,0 +1,48 @@
+/* DISCLAIMER: Hindi po ako gumamit ng AI, inaral ko po ang codes na ginamit ko */
+
+.main {
+    overflow-x: auto;
+    white-space: nowrap;
+    height: 450px;
+    width: auto;
+    border-radius: 10px;
+    background-color: rgb(39, 39, 39);
+    padding-bottom: 5px;
+    padding-top: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 20px;
+    float: center;
+    text-align: justify;
+}
+
+#h1 {
+    font-weight: bold;
+    color:rgb(255, 188, 188);
+    text-decoration: none;
+}
+
+.manhwa {
+    display: inline-block;
+    white-space: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+.manhwa img {
+    height: 300px;
+    width: 220px;
+    border-radius: 10px;
+    border: 1px solid rgb(22, 22, 22);
+}
+
+#title {
+    width: 220px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: aliceblue;
+    text-shadow: 0px 2px 5px aliceblue;
+    overflow-wrap: break-word;
+}
